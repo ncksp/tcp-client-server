@@ -1,0 +1,13 @@
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.exe
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.deps.json
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.runtimeconfig.json
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.runtimeconfig.dev.json
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.dll
+D:\Data Data Nicko\Project\singuling\tcp\server\bin\Debug\netcoreapp3.1\tcp.pdb
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.csprojAssemblyReference.cache
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.AssemblyInfoInputs.cache
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.AssemblyInfo.cs
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.csproj.CoreCompileInputs.cache
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.dll
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.pdb
+D:\Data Data Nicko\Project\singuling\tcp\server\obj\Debug\netcoreapp3.1\tcp.genruntimeconfig.cache

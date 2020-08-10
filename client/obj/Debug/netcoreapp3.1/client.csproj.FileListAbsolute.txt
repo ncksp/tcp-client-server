@@ -1,0 +1,13 @@
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.exe
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.deps.json
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.dll
+D:\Data Data Nicko\Project\singuling\tcp\client\bin\Debug\netcoreapp3.1\client.pdb
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.csprojAssemblyReference.cache
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.dll
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.pdb
+D:\Data Data Nicko\Project\singuling\tcp\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
